@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/osspl/Desktop/P-Flask login/venv/bin/python3" "$0" "$@"
+'''exec' "/home/vishal/Desktop/P-Flask login (copy)/venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
